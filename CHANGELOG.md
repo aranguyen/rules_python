@@ -47,6 +47,28 @@ BEGIN_UNRELEASED_TEMPLATE
 END_UNRELEASED_TEMPLATE
 -->
 
+{#v0-0-0}
+## Unreleased
+
+[0.0.0]: https://github.com/bazel-contrib/rules_python/releases/tag/0.0.0
+
+{#v0-0-0-removed}
+### Removed
+* Nothing removed.
+
+{#v0-0-0-changed}
+### Changed
+* (pypi) Update dependencies used for `compile_pip_requirements`, building
+  sdists in the `whl_library` rule and fetching wheels using `pip`.
+
+{#v0-0-0-fixed}
+### Fixed
+* Nothing fixed.
+
+{#v0-0-0-added}
+### Added
+* Nothing added.
+
 {#v1-9-0}
 ## [1.9.0] - 2026-02-21
 
